@@ -1,0 +1,13 @@
+.octicon {
+  fill: rgb(216, 222, 233);
+}
+
+.link:hover > .octicon {
+  fill: rgb(255, 255, 255);
+}
+
+.link {
+  position: absolute;
+  bottom: 5px;
+  right: 50%;
+}
